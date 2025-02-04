@@ -24,6 +24,8 @@ async function createProduct() {
 }
 
 btn.addEventListener("click", createProduct);
+console.log("hi");
+
 
 async function delprod(id) {
     try {
